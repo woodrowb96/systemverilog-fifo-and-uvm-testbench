@@ -1,0 +1,33 @@
+
+ Options Set are : 
+
+   Command Line               : xcrg -report_format html -dir ../vivado/fifo/fifo.sim/sim_1/behav/xsim/xsim.covdb/
+   Report Format              : html
+   Log File                   : xcrg.log
+   Func Cov Input Dir         : ../vivado/fifo/fifo.sim/sim_1/behav/xsim/xsim.covdb/
+   Func Cov Report Directory  : ./xcrg_func_cov_report
+
+
+
+                  Functional Coverage Report 
+
+ Restoring Coverage DB[s] from : 
+  1	../vivado/fifo/fifo.sim/sim_1/behav/xsim/xsim.covdb/tb_top_behav/xsim.covinfo
+
+ Creating Output Directory            : xsim.covdb/xcrg_mdb
+
+ Saving the Coverage Info at          : xsim.covdb/xcrg_mdb/xsim.covinfo
+
+ XILINX VIVADO derived is             : /home/woodrowb/Desktop/Xilinx/Vivado/2023.1/
+
+ Setting the report dir name as       : ./xcrg_func_cov_report
+
+ INFO : Destination directory ./xcrg_func_cov_report/.css is being overwritten
+ INFO : Destination directory ./xcrg_func_cov_report/.js is being overwritten
+ INFO : Destination directory ./xcrg_func_cov_report/.reportStyles is being overwritten
+ Creating dashboard.html 
+
+ Creating groups.html 
+
+ Creating grp0.html 
+
