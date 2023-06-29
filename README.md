@@ -15,3 +15,6 @@ Testbench waveform:
 UVM Summary:
 
 ![Screenshot from 2023-06-28 17-05-26](https://github.com/woodrowb96/systemverilog-fifo-and-uvm-testbench/assets/39601174/6bfd9886-a726-4f36-9f48-faeac40ad174)
+
+Coverage Report:
+![Screenshot from 2023-06-28 17-09-50](https://github.com/woodrowb96/systemverilog-fifo-and-uvm-testbench/assets/39601174/6f710173-d3a0-4907-92f8-172507740d29)
