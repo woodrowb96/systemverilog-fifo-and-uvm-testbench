@@ -1,6 +1,6 @@
 This directory contains code used to contrusct a constrained random testbench, using UVM.
 
-This testbench is made using the following files
+This testbench is made using the following files:
 	
 * tb_components.sv: Contains all components used to construct uvm testbench, except uvm_test. Also contains code used to collect coverage.
 * tb_tests.sv: Contains the uvm_test components.
