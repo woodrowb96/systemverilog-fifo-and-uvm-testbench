@@ -22,7 +22,7 @@ Components in this file:
 	
 	scoreboard: a uvm_scoreboard that compares Items from the monitor to a reference DUT, in order to determine DUT correctnes
 	
-	funct_cov_sub: uvm_subscriber that collects functional coverage using Items sent over monitors nalysis port
+	funct_cov_sub: uvm_subscriber that collects functional coverage using Items sent over monitors analysis port
 	
 	agent: uvm_agent for the tb
 	
