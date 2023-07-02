@@ -1,4 +1,4 @@
-This directory contains code used to contrusct a constrained random testbench, using UVM.
+This directory contains code used to construct a constrained random testbench, using UVM.
 
 This testbench is made using the following files:
 	
