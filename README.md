@@ -1,7 +1,7 @@
 # systemverilog-fifo-and-uvm-testbench
 This repository conatains a fifo, written using systemverilog.
 
-It also contains a testbench, which applys a constrained random sequence to  the fifo, checks the correctness of the fifo, and collects functional coverage on the test.
+It also contains a testbench, which applies a constrained random sequence to the fifo, checks the correctness of the fifo, and collects functional coverage on the test.
 
 The testbench is constructed using uvm.
 
